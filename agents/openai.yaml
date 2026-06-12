@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Your Own Skills"
+  short_description: "Route requests to the best local skill"
+  default_prompt: "Use $find-your-own-skills to match my request to the best local skill, then use that skill."
